@@ -1,0 +1,16 @@
+[package]
+name = "caromail"
+version = "1.1.0"
+authors = ["El pinguino y la taza","Pinguytaz.net"]
+description = "Comando para el envio masivo de mails"
+repository = "https://github.com/pinguytaz/CaroMail/"
+categories = ["command-line-utilities"]
+edition = "2021"
+
+[dependencies]
+csv = "1.3.0"
+indicatif = "0.17.8"
+lettre = "0.11.4"
+mime_guess = "2.0.4"
+regex = "1.10.3"
+rust-ini = "0.20.0"
