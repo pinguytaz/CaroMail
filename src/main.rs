@@ -176,7 +176,7 @@ fn banner() {
         "{}\n{}\n{}\n{}",
         r#"-----------------------------------------------"#,
         r#"| https://www.pinguytaz.net                   |"#,
-        r#"| https://www.github.com/pinguytaz            |"#,
+        r#"| https://www.github.com/pinguytaz/CaroMail   |"#,
         r#"-----------------------------------------------"#
     );
     println!("{}", info);
