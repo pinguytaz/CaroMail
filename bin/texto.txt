@@ -1,0 +1,5 @@
+Buenas <DESTINO> 
+
+Ejemplo de texto de un mail en el que <DESTINO> se cambia por el valor del segundo campo.
+
+Saludos
