@@ -15,3 +15,6 @@ Cargo.lock
 
 #Fichero con ejemplos propios y configuraciones para pruebas
 Pruebas/
+
+#Archivos o proyectos en desarrollo, similar  NoPasar
+NoPasar/
